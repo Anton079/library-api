@@ -106,3 +106,4 @@ C:\mycode\asp.net\Library-api\Library-api\obj\Debug\net8.0\refint\Library-api.dl
 C:\mycode\asp.net\Library-api\Library-api\obj\Debug\net8.0\Library-api.pdb
 C:\mycode\asp.net\Library-api\Library-api\obj\Debug\net8.0\Library-api.genruntimeconfig.cache
 C:\mycode\asp.net\Library-api\Library-api\obj\Debug\net8.0\ref\Library-api.dll
+C:\mycode\asp.net\Library-api\Library-api\obj\Debug\net8.0\Library-api.sourcelink.json

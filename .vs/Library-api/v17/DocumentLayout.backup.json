@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\Library-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\authors\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\authors\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\data\\migrations\\createshema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\data\\migrations\\createshema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\data\\migrations\\createshema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\data\\migrations\\createshema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\library-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\library-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\authors\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\authors\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|solutionrelative:library-api\\books\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AFE17D5-A41B-4C8F-864C-07D74DC8F384}|Library-api\\Library-api.csproj|c:\\mycode\\asp.net\\library-api\\library-api\\library-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,50 +42,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Library-api.http",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Library-api.http",
+              "RelativeDocumentMoniker": "Library-api\\Library-api.http",
+              "ToolTip": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Library-api.http",
+              "RelativeToolTip": "Library-api\\Library-api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-15T15:30:37.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\mycode\\asp.net\\Library-api\\Library-api\\appsettings.json",
               "RelativeDocumentMoniker": "Library-api\\appsettings.json",
               "ToolTip": "C:\\mycode\\asp.net\\Library-api\\Library-api\\appsettings.json",
               "RelativeToolTip": "Library-api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-15T11:01:23.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Program.cs",
               "RelativeDocumentMoniker": "Library-api\\Program.cs",
               "ToolTip": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Program.cs",
               "RelativeToolTip": "Library-api\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwDYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T11:00:06.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Library-api",
+              "DocumentIndex": 7,
+              "Title": "Library-api.csproj",
               "DocumentMoniker": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Library-api.csproj",
               "RelativeDocumentMoniker": "Library-api\\Library-api.csproj",
               "ToolTip": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Library-api.csproj",
               "RelativeToolTip": "Library-api\\Library-api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-15T09:44:58.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T09:44:58.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Library-api\\Data\\Migrations\\AppDbContext.cs",
@@ -94,20 +110,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Books\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Library-api\\Books\\Models\\Book.cs",
               "ToolTip": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Books\\Models\\Book.cs",
               "RelativeToolTip": "Library-api\\Books\\Models\\Book.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T08:58:45.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Authors\\Models\\Author.cs",
               "RelativeDocumentMoniker": "Library-api\\Authors\\Models\\Author.cs",
@@ -120,13 +136,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CreateShema.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Data\\Migrations\\CreateShema.cs",
               "RelativeDocumentMoniker": "Library-api\\Data\\Migrations\\CreateShema.cs",
               "ToolTip": "C:\\mycode\\asp.net\\Library-api\\Library-api\\Data\\Migrations\\CreateShema.cs",
               "RelativeToolTip": "Library-api\\Data\\Migrations\\CreateShema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T08:58:16.996Z",
               "EditorCaption": ""

@@ -3,6 +3,7 @@ using FluentMigrator;
 
 namespace Library_api.Data.Migrations
 {
+    [Migration(15042025)]
     public class CreateShema : Migration
     {
         public override void Up()
